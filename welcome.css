@@ -1,0 +1,22 @@
+h1{
+    background-color: antiquewhite;
+    background-position: 0cqmax;
+    color: blue;
+    font-style: calc();
+}
+h2{
+    background-attachment: fixed;
+    color: brown;
+}
+body{
+    color: blueviolet;
+    font-style: oblique;
+}
+h3{
+    background-color: beige;
+    color: black;
+}
+body{
+    color: blue;
+    font-style: inherit;
+}

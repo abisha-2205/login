@@ -1,0 +1,11 @@
+let studentname="abisha";
+let sub1=97;
+let sub2=99;
+let sub3=90;
+let sub4=95;
+let sub5=80;
+total=sub1+sub2+sub3+sub4+sub5;
+average=total/5;
+console.log("studentname:",studentname);
+console.log("total:",total);
+console.log("average:",average);
